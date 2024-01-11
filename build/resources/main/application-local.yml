@@ -1,0 +1,7 @@
+datasource:
+  db: wedenconve
+  jdbc-url: proxysql.master.meliseginf.com:6612
+  driver-class-name: com.mysql.cj.jdbc.Driver
+  max-pool-size: 10
+  user: ${MELI_USER}
+  password: ${MELI_PASS}

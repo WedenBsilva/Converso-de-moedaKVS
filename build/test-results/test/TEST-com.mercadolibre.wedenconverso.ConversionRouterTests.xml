@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mercadolibre.wedenconverso.ConversionRouterTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-11-08T20:08:56" hostname="BR0C02FQ44AMD6M" time="0.462">
+  <properties/>
+  <testcase name="testFindLastFiveConversions()" classname="com.mercadolibre.wedenconverso.ConversionRouterTests" time="0.317"/>
+  <testcase name="testConvert()" classname="com.mercadolibre.wedenconverso.ConversionRouterTests" time="0.133"/>
+  <testcase name="testSetRate()" classname="com.mercadolibre.wedenconverso.ConversionRouterTests" time="0.008"/>
+  <system-out><![CDATA[17:08:49,868 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback-test.xml] at [file:/Users/wbsilva/wedenconverso/fury_wedenconverso/build/resources/test/logback-test.xml]
+17:08:49,955 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set
+17:08:49,964 |-WARN in ch.qos.logback.core.joran.action.IncludeAction - Could not find resource corresponding to [/org/springframework/boot/logging/logback/base.xml]
+17:08:49,964 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+17:08:49,968 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [STDOUT]
+17:08:49,978 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+17:08:50,015 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to ERROR
+17:08:50,015 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[ROOT]
+17:08:50,016 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.
+17:08:50,017 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@45d64d27 - Registering current configuration as safe fallback point
+
+  ______                   _____            _                                    
+ |  ____|                 / ____|          (_)                 /\                
+ | |__ _   _ _ __ _   _  | (___  _ __  _ __ _ _ __   __ _     /  \   _ __  _ __  
+ |  __| | | | '__| | | |  \___ \| '_ \| '__| | '_ \ / _` |   / /\ \ | '_ \| '_ \ 
+ | |  | |_| | |  | |_| |  ____) | |_) | |  | | | | | (_| |  / ____ \| |_) | |_) |
+ |_|   \__,_|_|   \__, | |_____/| .__/|_|  |_|_| |_|\__, | /_/    \_\ .__/| .__/ 
+                   __/ |        | |                  __/ |          | |   | |    
+                  |___/         |_|                 |___/           |_|   |_|    
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
